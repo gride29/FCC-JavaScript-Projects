@@ -1,0 +1,29 @@
+header {
+    font-family: Helvetica;
+    font-style: normal;
+    font-size: 40px;
+    text-align: center;
+}
+
+h1 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-size: 10px;
+    text-align: center;
+}
+
+#roman-input{
+    margin-top: 25px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+    
