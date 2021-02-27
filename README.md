@@ -1,6 +1,6 @@
 # FreeCodeCamp JavaScript Projects
 
-JavaScript projects completed to earn the JavaScript Algorithms and Data Structures certification.
+Few simple projects and one trickier one. 
 
 ### Made using:
 
