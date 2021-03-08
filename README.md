@@ -2,7 +2,7 @@
 
 Few simple projects and one trickier one. 
 
-### Made using:
+# Tech stack:
 
 * JavaScript
 * HTML
