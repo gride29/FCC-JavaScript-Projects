@@ -2,7 +2,7 @@
 
 Few simple projects and one trickier one. 
 
-# Tech stack:
+# Tech stack
 
 * JavaScript
 * HTML
